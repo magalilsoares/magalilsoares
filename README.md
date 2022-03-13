@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @magalilsoares
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Sou Magali l. Soares
+-Formada em Administração de Empresas e Ciências Contábeis.
+
+- 🌱 Em transição de carreira para aa àrea de Tecnologia da Informação.
+- 💞️ Participante do Pograma Desenvolve do O Boticário.
+- 📫 Estudante de Full Stack pela Alura.
 
 <!---
 magalilsoares/magalilsoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
