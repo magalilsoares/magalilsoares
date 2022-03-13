@@ -1,6 +1,6 @@
 - 🌱 Magali L. Soares
 
-- 🌱 Formada em Administração de Empresas e Ciências Contábeis
+- 🌱 Formada em Administração de Empresas e Ciências Contábeis.
 
 - 🌱 Em transição de carreira para a àrea de Tecnologia da Informação.
 - 🌱 Participante do Pograma Desenvolve do O Boticário.
