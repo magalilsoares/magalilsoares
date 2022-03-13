@@ -1,7 +1,7 @@
 - 👋 Sou Magali l. Soares
 -Formada em Administração de Empresas e Ciências Contábeis.
 
-- 🌱 Em transição de carreira para aa àrea de Tecnologia da Informação.
+- 🌱 Em transição de carreira para a àrea de Tecnologia da Informação.
 - 💞️ Participante do Pograma Desenvolve do O Boticário.
 - 📫 Estudante de Full Stack pela Alura.
 
